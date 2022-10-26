@@ -1,0 +1,74 @@
+[
+   {
+     "id": "01",
+     "name": "1 Hour HTML",
+     "details": "Learn how to code in HTML in 1 hour. This class is set up for complete beginners!",
+      "ratings": "4.5",
+      "students": "60,259",
+      "instructor": "John Bura",
+      "image_url": "https://images.unsplash.com/photo-1607706189992-eae578626c86?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGh0bWx8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60" ,
+      "discription": " Have you ever wanted to learn to code but don't know where to start? Learning how to code can get you a better job and lead to a better future. This course starts you off with the basic coding language of HTML. This is a very condensed 1 hour tutorial that will show you how to code in HTML. Enroll to begin your journey to be a web development master.  Take this 1 hour course as the absolute first course you take in coding. It's short and to the point. You won't regret it. HTML is the building block of the web and other markup languages. This is the foundational course you need to have in your library.",
+      "course_id": "jlsjfsdifjksdfjkhfk",
+      "price": "19.99"
+   },
+   {
+     "id": "02",
+     "name": "Step-by-step HTML and CSS for Beginners",
+     "details": "Learn how to code HTML5 + CSS3 to create your own website in this beginner-level course. No coding experience required!",
+      "ratings": "4.6",
+      "students": "9,405",
+      "instructor": "Kathlin Farlev",
+      "image_url": "https://images.unsplash.com/photo-1507721999472-8ed4421c4af2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aHRtbCUyMGNzc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60",
+      "discription": "Whether you want to make changes to your website's template, create new webpages from scratch, or just understand what you're doing when you cut-and-paste embed codes from sites like YouTube or SlideShare — understanding HTML and CSS makes it possible.In this course, we'll create a simple webpage using valid HTML5 and CSS3 code. As we work together, I'll explain WHY the code we write looks the way it does. I'll point out the simple patterns in the code, so you can learn more quickly and with more confidence.",
+      "course_id": "uhfisdhfdjsfhuwe",
+      "price": "12.49"
+   },
+   {
+     "id": "03",
+     "name": "Javascript for Beginners",
+     "details": "Learn javascript online and supercharge your web design with this Javascript for beginners training course.",
+      "ratings": "4.4",
+      "students": "10,331",
+      "instructor": "Haider Ali",
+      "image_url": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8amF2YXNjcmlwdHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60",
+      "discription": "If you want to do something useful start by learning Javascript . In these days when the browser is central to all computer use knowing is the most important step. A few years ago Javascript potential was uncertain and many programmers considered it useless. These days however competent programmers have identified Javascript real potential and uses and it has gone from a toy language to the main language of the browser. It has become one of the most useful languages of this era. Every developer needs at least a basic understanding of Javascript. A developer who knows Javascript is the rockstar of the company and is in constant demand by employers. Our online Javascript.",
+      "course_id": "hkjhkfjhfuisdyfej",
+      "price": "14.55"
+   },
+   {
+     "id": "04",
+     "name": "Bootstrap: The Beginner Web Design Course",
+     "details": "Quickly learn HTML5 and CSS3 + Bootstrap - the basics of Web Development - to design your own responsive websites.",
+      "ratings": "4.6",
+      "students": "15,411",
+      "instructor": "Nick Walter",
+      "image_url": "https://media.istockphoto.com/photos/business-woman-with-finger-pressing-bootstrap-button-on-virtual-picture-id1405668888?b=1&k=20&m=1405668888&s=170667a&w=0&h=Vxg_aufE85g6iRxK29YpibKQyZJbNNLJnw-KIP7OtjM=",
+      "discription": "Learning is better when you're actually doing. As you follow along with each section of the course, you'll be building your own websites. Plus, we'll be using free applications to do so - Brackets and Google Chrome. No matter what type of computer you have - Windows, Mac, Linux - you can get started.If you've watched other HTML5 and CSS3 courses or tutorials before, you know that it can be difficult to make it interesting and fun. The instructors Nick and Phil strive to make each lesson fun and interesting, so you feel like you're actually learning something new... and progressing... all while having fun!",
+      "course_id": "lkfjhlkjljljfsf",
+      "price": "29.99"
+   },
+   {
+     "id": "05",
+     "name": "UI & Web Design using Adobe Illustrator CC",
+     "details": "Learn UI/UX and how to create stunning website | Everything you need to know about web design in 2022 | All in Photoshop",
+      "ratings": "4.7",
+      "students": "25,268",
+      "instructor": "Christian lawra",
+      "image_url": "https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8dWklMjB3ZWIlMjBkZXNpZ258ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60",
+      "discription": "A website can make or break a business. That's because no matter how great the company's services or products are, without a beautiful website, it's all for nothing! That's why entrepreneurs from all over the world are looking for skilled web designers who are capable of creating awesome websites. This course will help you do just that! Whether yore a beginner or an advanced web designer, you will find this course beneficial in how it blends clear, concise instruction with real world examples and hands-on exercises.",
+      "course_id": "sgdfgdfgergreg",
+      "price": "50.00"
+   },
+   {
+     "id": "06",
+     "name": "Photoshop: Complete UI/UX Masterclass",
+     "details": "Learn how to apply User Experience (UX) principles to your website designs, code a variety of sites, and increase sales!",
+      "ratings": "4.5",
+      "students": "97,275",
+      "instructor": "Joe Natoly",
+      "image_url": "https://images.unsplash.com/photo-1587440871875-191322ee64b0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8dWklMjBkZXNpZ258ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60",
+      "discription": "This course will help you stand out as a web designer,teaching you how to apply User Experience (UX) strategies that will make every site you build useful, usable, and valuable.Reinforce whatlearning using the bonus 30-page downloadable UX Guidebook.illed with exercises and activities, the UX Guidebook is a great tool to reference as you progress through the course, or while developing your own custom sites.You'll also get hands-on experience designing and coding three different types of sites. This will give you the confidence to pursue similar projects if you're already a website designer, if you want to get into web design, or if you want to enhance your current business site.",
+      "course_id": "dfgfgdfgdfgrtyy",
+      "price": "34.99"
+   }
+ ]
